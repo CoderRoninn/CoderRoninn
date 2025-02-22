@@ -3,7 +3,7 @@
 
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ataturhan)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Coderronin)
 
 <!--
 **CoderRoninn/CoderRoninn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
