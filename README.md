@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Doğukan a X2 software engineer
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Coderronin)
