@@ -4,7 +4,7 @@ I am Doğukan a X2 software engineer
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Coderronin)
 
-<h1 align="center">🛠️ Tech Stack</h1>
+<h1 align="center">💻  Tech Stack</h1>
 
 ## 🚀 Languages
 <p align="center">
