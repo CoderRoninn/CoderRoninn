@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm  Doğukan  👋  — a X2 software engineer
 I am Doğukan a X2 software engineer
 
 
